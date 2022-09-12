@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-[![sweesweett's GitHub stats](https://github-readme-stats.vercel.app/api?username=sweesweett&count_private=true&show_icons=true&bg_color=90deg,#fff363,#c258ff&title_color=#ffffff)](https://github.com/sweesweett/github-readme-stats)   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsweesweett%2Fhit-counter&count_bg=%23CEC7FF&title_bg=%2315170F&icon=skyliner.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+-->
+[![sweesweett's GitHub stats](https://github-readme-stats.vercel.app/api?username=sweesweett&count_private=true&show_icons=true&custom_title=sweesweett✨&bg_color=45,a864df,b2ffca&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&border_radius=10)](https://github.com/sweesweett/github-readme-stats)  
+
+
+
